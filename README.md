@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi!%20I'm%20Ananya%20👋&fontSize=40&fontAlignY=35"/>
 
-<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate Software Developer | Generative AI Trainee | Exploring AI, ML, and Full-Stack Development | India
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnanyaMedda&label=Profile%20views&color=blue&style=flat" />
@@ -9,10 +10,10 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on **React & Backend Projects**
-- 🌱 I’m currently learning **AWS & System Design**
-- 🎓 MCA Student
-- 💡 Interested in **Web Development & AI-based systems**
+- 🔭 I’m currently working on **Generative AI Projects**
+- 🌱 I’m currently learning **Advanced AI Techniques & Prompt Engineering**
+- 🎓 MCA Student | Ranked Among Top in Department
+- 💡 Interested in **AI-powered Applications, Web Development, and Intelligent Systems**
 
 ---
 
